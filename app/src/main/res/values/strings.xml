@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App 10120204</string>
+    <string name="profile">Profile</string>
+    <string name="note">Catatan</string>
+    <string name="info">Info</string>
+    <string name="nim">NIM: 10120204</string>
+    <string name="nama">Nama: Fahmi Muhamad Romdoni</string>
+    <string name="email">Email: fahmi.10120204@mahasiswa.unikom.ac.id</string>
+    <string name="kelas">Kelas: IF 5</string>
+    <string name="txt_android">Android Nougat</string>
+    <string name="txt_versi">Minimum Version 7.1 </string>
+    <string name="txt_api">Api 24</string>
+    <string name="txt_add">Add Notes</string>
+</resources>
