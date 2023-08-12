@@ -1,3 +1,8 @@
+/**
+ * Nim : 10120204
+ * Nama : Fahmi Muhamad Romdoni
+ * Kelas : IF 5
+ */
 package com.fahmi.App10120204.view.login;
 
 public class Admin {
